@@ -4,6 +4,7 @@
 }
 body {
     margin:0;
+    background-color: black;
 }
 
 
@@ -27,7 +28,9 @@ body {
 }
 h1.header-title {
     font-family: Roboto;
+    text-align: center;
 
     font-size:70px;
     color:black;
+    max-width: 500px;
 }
